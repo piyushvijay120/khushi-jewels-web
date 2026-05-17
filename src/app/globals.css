@@ -1,0 +1,153 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fafaf8;
+  --foreground: #1a1a1a;
+  --gold-primary: #d4af37;
+  --gold-light: #f4e8c1;
+  --gold-dark: #a68d28;
+  --navy-luxury: #050f1e;
+  --navy-mid: #071828;
+  --black-luxury: #0f0f0f;
+  --white-cream: #fefdfb;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-gold-primary: var(--gold-primary);
+  --color-gold-light: var(--gold-light);
+  --color-gold-dark: var(--gold-dark);
+  --font-sans: 'Poppins', system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-playfair);
+  --font-serif: var(--font-cormorant);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+body {
+  background: #FAFAF7;
+  color: #111111;
+  font-family: 'Poppins', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-playfair), serif;
+  font-weight: 600;
+}
+
+::selection {
+  background: var(--gold-primary);
+  color: var(--black-luxury);
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d4af37; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #b8962e; }
+
+/* ─── Guaranteed containers (bypasses Tailwind v4 responsive-purge) ── */
+.sc {
+  max-width: 88rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: clamp(1.25rem, 4vw, 4rem);
+  padding-right: clamp(1.25rem, 4vw, 4rem);
+  width: 100%;
+}
+
+/* ─── Navbar entrance animation ────────────────────────────────────── */
+@keyframes navEnter {
+  from { opacity: 0; transform: translateY(-100%); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── Hero entrance animations ─────────────────────────────────────── */
+@keyframes hFadeUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes hFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.h-lbl  { animation: hFadeIn  0.6s ease 0.0s both; }
+.h-ln1  { animation: hFadeUp  0.9s cubic-bezier(0.22,1,0.36,1) 0.12s both; }
+.h-ln2  { animation: hFadeUp  0.9s cubic-bezier(0.22,1,0.36,1) 0.26s both; }
+.h-ln3  { animation: hFadeUp  0.9s cubic-bezier(0.22,1,0.36,1) 0.38s both; }
+.h-sub  { animation: hFadeUp  0.75s ease 0.50s both; }
+.h-cta  { animation: hFadeUp  0.75s ease 0.62s both; }
+.h-stat { animation: hFadeIn  0.8s ease 0.76s both; }
+
+/* ─── Scroll-reveal ─────────────────────────────────────────────────── */
+[data-anim] {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s cubic-bezier(0.22,1,0.36,1),
+              transform 0.7s cubic-bezier(0.22,1,0.36,1);
+}
+[data-anim].in-view { opacity: 1; transform: translateY(0); }
+[data-anim-d="1"] { transition-delay: 0.05s; }
+[data-anim-d="2"] { transition-delay: 0.14s; }
+[data-anim-d="3"] { transition-delay: 0.23s; }
+[data-anim-d="4"] { transition-delay: 0.32s; }
+[data-anim-d="5"] { transition-delay: 0.41s; }
+[data-anim-d="6"] { transition-delay: 0.50s; }
+
+/* ─── Marquee ticker ────────────────────────────────────────────────── */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 28s linear infinite;
+}
+.marquee-track:hover { animation-play-state: paused; }
+
+/* ─── Responsive grids ──────────────────────────────────────────────── */
+.small-cat-grid { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 640px) { .small-cat-grid { grid-template-columns: 1fr 1fr; } }
+
+.about-stats-grid { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 480px) { .about-stats-grid { grid-template-columns: repeat(2, 1fr); } }
+
+/* Section widths — ensure all page sections fill the viewport */
+section, nav, footer { width: 100%; box-sizing: border-box; }
+
+.collage-grid { grid-template-columns: 1fr 1fr; }
+@media (max-width: 480px) { .collage-grid { grid-template-columns: 1fr; } }
+
+/* Collections product grid */
+.coll-grid { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 1200px) { .coll-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 768px)  { .coll-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px)  { .coll-grid { grid-template-columns: 1fr; } }
+
+/* ─── ProductCard hover lift ────────────────────────────────────────── */
+.product-lift:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.1);
+}

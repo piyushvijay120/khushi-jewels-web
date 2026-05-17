@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Gold Engagement Ring",
+    "price": "₹45,000",
+    "category": "Rings",
+    "image": "/images/product1.jpg",
+    "description": "Beautiful 22K gold engagement ring with elegant design",
+    "weight": "4.5g",
+    "material": "22K Gold"
+  },
+  {
+    "id": 2,
+    "name": "Diamond Solitaire Ring",
+    "price": "₹75,000",
+    "category": "Rings",
+    "image": "/images/product2.jpg",
+    "description": "Premium diamond solitaire ring for special occasions",
+    "weight": "2.8g",
+    "material": "18K Gold with Diamond"
+  },
+  {
+    "id": 3,
+    "name": "Classic Gold Necklace",
+    "price": "₹55,000",
+    "category": "Necklaces",
+    "image": "/images/product3.jpg",
+    "description": "Timeless 22K gold necklace with intricate patterns",
+    "weight": "8.2g",
+    "material": "22K Gold"
+  },
+  {
+    "id": 4,
+    "name": "Pearl Pendant Necklace",
+    "price": "₹35,000",
+    "category": "Necklaces",
+    "image": "/images/product4.jpg",
+    "description": "Elegant pearl pendant with gold chain",
+    "weight": "5.5g",
+    "material": "22K Gold with Pearl"
+  },
+  {
+    "id": 5,
+    "name": "Gold Hoop Earrings",
+    "price": "₹18,000",
+    "category": "Earrings",
+    "image": "/images/product5.jpg",
+    "description": "Classic gold hoop earrings, perfect for everyday wear",
+    "weight": "3.2g",
+    "material": "22K Gold"
+  },
+  {
+    "id": 6,
+    "name": "Diamond Stud Earrings",
+    "price": "₹28,000",
+    "category": "Earrings",
+    "image": "/images/product6.jpg",
+    "description": "Sparkling diamond studs for elegant look",
+    "weight": "1.8g",
+    "material": "18K Gold with Diamond"
+  },
+  {
+    "id": 7,
+    "name": "Bridal Gold Bangles Set",
+    "price": "₹68,000",
+    "category": "Bangles",
+    "image": "/images/product7.jpg",
+    "description": "Set of 4 exquisite gold bangles for bridal collection",
+    "weight": "28g",
+    "material": "22K Gold"
+  },
+  {
+    "id": 8,
+    "name": "Daily Wear Gold Bangles",
+    "price": "₹32,000",
+    "category": "Bangles",
+    "image": "/images/product8.jpg",
+    "description": "Comfortable gold bangles suitable for daily wear",
+    "weight": "12g",
+    "material": "22K Gold"
+  },
+  {
+    "id": 9,
+    "name": "Bridal Choker Set",
+    "price": "₹95,000",
+    "category": "Bridal Sets",
+    "image": "/images/product9.jpg",
+    "description": "Complete bridal choker set with matching earrings",
+    "weight": "35g",
+    "material": "22K Gold with Stones"
+  },
+  {
+    "id": 10,
+    "name": "Wedding Collection Set",
+    "price": "₹1,25,000",
+    "category": "Bridal Sets",
+    "image": "/images/product10.jpg",
+    "description": "Luxury bridal set including necklace, earrings, and bangles",
+    "weight": "50g",
+    "material": "22K Gold with Diamonds"
+  }
+]
