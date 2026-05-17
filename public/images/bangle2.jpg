@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4e8c1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a68d28;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="#fafaf8"/>
+
+  <!-- Two thicker bangles for daily wear -->
+  <!-- Bangle 1 -->
+  <ellipse cx="110" cy="100" rx="40" ry="50" fill="none" stroke="url(#goldGrad)" stroke-width="12" opacity="0.95"/>
+  <ellipse cx="110" cy="100" rx="40" ry="50" fill="none" stroke="#f4e8c1" stroke-width="3" opacity="0.6"/>
+
+  <!-- Bangle 2 -->
+  <ellipse cx="190" cy="100" rx="42" ry="52" fill="none" stroke="url(#goldGrad)" stroke-width="12" opacity="0.9"/>
+  <ellipse cx="190" cy="100" rx="42" ry="52" fill="none" stroke="#f4e8c1" stroke-width="3" opacity="0.5"/>
+
+  <!-- Decorative pattern -->
+  <circle cx="110" cy="55" r="4" fill="#a68d28" opacity="0.6"/>
+  <circle cx="110" cy="145" r="4" fill="#a68d28" opacity="0.6"/>
+  <circle cx="190" cy="55" r="4" fill="#a68d28" opacity="0.6"/>
+  <circle cx="190" cy="145" r="4" fill="#a68d28" opacity="0.6"/>
+
+  <!-- Text -->
+  <text x="150" y="250" font-family="Playfair Display, serif" font-size="20" font-weight="600" text-anchor="middle" fill="#d4af37">DAILYWEAR</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 350" width="300" height="350">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4e8c1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a68d28;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="350" fill="#fafaf8"/>
+
+  <!-- Chain top -->
+  <line x1="150" y1="20" x2="150" y2="50" stroke="#d4af37" stroke-width="2.5"/>
+
+  <!-- Pendant with pearl -->
+  <g>
+    <ellipse cx="150" cy="80" rx="22" ry="28" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="1"/>
+    <circle cx="150" cy="90" r="18" fill="#faf6f0" stroke="#c9a961" stroke-width="1"/>
+    <circle cx="145" cy="85" r="6" fill="#ffffff" opacity="0.7"/>
+  </g>
+
+  <!-- Chain links down -->
+  <g stroke="#d4af37" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 140 110 L 135 135 L 140 160"/>
+    <path d="M 160 110 L 165 135 L 160 160"/>
+  </g>
+
+  <!-- Middle decorative beads -->
+  <circle cx="120" cy="140" r="5" fill="#d4af37" opacity="0.8"/>
+  <circle cx="180" cy="140" r="5" fill="#d4af37" opacity="0.8"/>
+
+  <!-- Lower chain -->
+  <line x1="150" y1="160" x2="150" y2="200" stroke="#d4af37" stroke-width="2.5" opacity="0.8"/>
+
+  <!-- Text -->
+  <text x="150" y="280" font-family="Playfair Display, serif" font-size="20" font-weight="600" text-anchor="middle" fill="#d4af37">PENDANT</text>
+</svg>

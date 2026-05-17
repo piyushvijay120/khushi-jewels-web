@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#fafaf8"/>
+
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#d4af37" stroke-width="2"/>
+
+  <!-- Diamond shape (jewel) -->
+  <g transform="translate(100, 100)">
+    <!-- Top facet -->
+    <polygon points="0,-50 30,-15 -30,-15" fill="#d4af37" stroke="#a68d28" stroke-width="1"/>
+
+    <!-- Upper middle facets -->
+    <polygon points="30,-15 50,10 20,20" fill="#e8c86e" stroke="#a68d28" stroke-width="1"/>
+    <polygon points="-30,-15 -50,10 -20,20" fill="#e8c86e" stroke="#a68d28" stroke-width="1"/>
+
+    <!-- Middle facets -->
+    <polygon points="50,10 45,40 20,20" fill="#c9a961" stroke="#a68d28" stroke-width="1"/>
+    <polygon points="-50,10 -45,40 -20,20" fill="#c9a961" stroke="#a68d28" stroke-width="1"/>
+
+    <!-- Lower facets -->
+    <polygon points="20,20 45,40 35,50" fill="#b89a4d" stroke="#a68d28" stroke-width="1"/>
+    <polygon points="-20,20 -45,40 -35,50" fill="#b89a4d" stroke="#a68d28" stroke-width="1"/>
+    <polygon points="0,60 35,50 -35,50" fill="#d4af37" stroke="#a68d28" stroke-width="1"/>
+
+    <!-- Base shine -->
+    <circle cx="0" cy="0" r="8" fill="#f4e8c1" opacity="0.6"/>
+  </g>
+
+  <!-- Text -->
+  <text x="100" y="170" font-family="Playfair Display, serif" font-size="14" font-weight="600" text-anchor="middle" fill="#d4af37">ROYAL</text>
+</svg>

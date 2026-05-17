@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4e8c1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a68d28;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="#fafaf8"/>
+
+  <!-- Choker necklace -->
+  <g>
+    <!-- Chain line -->
+    <line x1="80" y1="80" x2="220" y2="80" stroke="#d4af37" stroke-width="2.5"/>
+
+    <!-- Center pendant (large) -->
+    <polygon points="150,60 170,95 150,130 130,95" fill="#b0e8ff" stroke="#5a9ab5" stroke-width="1.5"/>
+    <polygon points="150,75 160,95 150,115 140,95" fill="#e8f8ff" opacity="0.7"/>
+
+    <!-- Side pendants -->
+    <circle cx="100" cy="85" r="12" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="1"/>
+    <circle cx="200" cy="85" r="12" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="1"/>
+  </g>
+
+  <!-- Matching earrings below -->
+  <g>
+    <text x="150" y="180" font-family="Playfair Display, serif" font-size="12" font-weight="600" text-anchor="middle" fill="#a68d28">+ Matching Earrings</text>
+
+    <!-- Left earring -->
+    <polygon points="90,220 105,250 90,280 75,250" fill="#b0e8ff" stroke="#5a9ab5" stroke-width="1"/>
+    <circle cx="90" cy="295" r="6" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="0.5"/>
+
+    <!-- Right earring -->
+    <polygon points="210,220 225,250 210,280 195,250" fill="#b0e8ff" stroke="#5a9ab5" stroke-width="1"/>
+    <circle cx="210" cy="295" r="6" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="0.5"/>
+  </g>
+
+  <!-- Text -->
+  <text x="150" y="360" font-family="Playfair Display, serif" font-size="22" font-weight="600" text-anchor="middle" fill="#d4af37">CHOKER SET</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4e8c1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a68d28;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="#fafaf8"/>
+
+  <!-- Left earring -->
+  <circle cx="80" cy="80" r="28" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="1"/>
+  <circle cx="80" cy="80" r="20" fill="none" stroke="#f4e8c1" stroke-width="2" opacity="0.6"/>
+
+  <!-- Right earring -->
+  <circle cx="220" cy="80" r="28" fill="url(#goldGrad)" stroke="#a68d28" stroke-width="1"/>
+  <circle cx="220" cy="80" r="20" fill="none" stroke="#f4e8c1" stroke-width="2" opacity="0.6"/>
+
+  <!-- Shine/highlights -->
+  <circle cx="70" cy="70" r="5" fill="#f4e8c1" opacity="0.8"/>
+  <circle cx="210" cy="70" r="5" fill="#f4e8c1" opacity="0.8"/>
+
+  <!-- Earring posts -->
+  <line x1="80" y1="108" x2="80" y2="130" stroke="#d4af37" stroke-width="2"/>
+  <line x1="220" y1="108" x2="220" y2="130" stroke="#d4af37" stroke-width="2"/>
+
+  <!-- Text -->
+  <text x="150" y="240" font-family="Playfair Display, serif" font-size="20" font-weight="600" text-anchor="middle" fill="#d4af37">HOOPS</text>
+</svg>
