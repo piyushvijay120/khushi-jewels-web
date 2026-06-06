@@ -10,11 +10,11 @@ import products from '@/data/products.json';
 import { CONTACT_CONFIG } from '@/config/contact';
 
 const heroSlides = [
-  { img: '/images/hero1.jpg', label: 'Bridal Collections' },
-  { img: '/images/hero2.jpg', label: 'Gold Necklaces' },
-  { img: '/images/hero3.jpg', label: 'Handcrafted Rings' },
-  { img: '/images/hero4.jpg', label: 'Luxury Earrings' },
-  { img: '/images/hero5.jpg', label: 'Royal Bangles' },
+  { img: '/images/new-jewellery/IMG-20260605-WA0031.jpg', label: 'Bridal Collections' },
+  { img: '/images/new-jewellery/IMG-20260605-WA0022.jpg', label: 'Crystal Necklaces' },
+  { img: '/images/new-jewellery/IMG-20260605-WA0017.jpg', label: 'Pearl Ring Collection' },
+  { img: '/images/new-jewellery/IMG-20260605-WA0010.jpg', label: 'Premium Bracelets' },
+  { img: '/images/new-jewellery/IMG-20260605-WA0033.jpg', label: 'Exclusive Ornaments' },
 ];
 
 const missionTabs = {
@@ -227,8 +227,8 @@ export default function Home() {
           {/* Big cards */}
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem', marginBottom: '1.5rem' }}>
             {[
-              { label: 'Bridal Collections', href: '/collections?category=Bridal Sets', desc: 'Complete your special day with our exquisite bridal jewellery sets.', img: '/images/cat-bridal.jpg' },
-              { label: 'Gold Necklaces', href: '/collections?category=Necklaces', desc: 'Handcrafted 22K necklaces for every tradition and occasion.', img: '/images/cat-necklaces.jpg' },
+              { label: 'Bridal Collections', href: '/collections?category=Bridal Sets', desc: 'Complete your special day with our exquisite bridal jewellery sets.', img: '/images/new-jewellery/IMG-20260605-WA0031.jpg' },
+              { label: 'Crystal Necklaces', href: '/collections?category=Necklaces', desc: 'Handcrafted crystal bead chokers and silver necklaces for every occasion.', img: '/images/new-jewellery/IMG-20260605-WA0034.jpg' },
             ].map((card, i) => (
               <div data-anim data-anim-d={String(i + 1)} key={card.label}>
                 <Link href={card.href} style={{ display: 'block', textDecoration: 'none' }}>
@@ -252,9 +252,9 @@ export default function Home() {
           {/* Small cards */}
           <div style={{ display: 'grid', gap: '1.5rem' }} className="small-cat-grid">
             {[
-              { label: 'Rings', href: '/collections?category=Rings', img: '/images/cat-rings.jpg' },
-              { label: 'Earrings', href: '/collections?category=Earrings', img: '/images/cat-earrings.jpg' },
-              { label: 'Bangles', href: '/collections?category=Bangles', img: '/images/cat-bangles.jpg' },
+              { label: 'Rings', href: '/collections?category=Rings', img: '/images/new-jewellery/IMG-20260605-WA0017.jpg' },
+              { label: 'Silver Jewellery', href: '/collections?category=Bangles', img: '/images/new-jewellery/IMG-20260605-WA0006.jpg' },
+              { label: 'Bangles', href: '/collections?category=Bangles', img: '/images/new-jewellery/IMG-20260605-WA0010.jpg' },
             ].map((cat, i) => (
               <div data-anim data-anim-d={String(i + 1)} key={cat.label}>
                 <Link href={cat.href} style={{ display: 'block', textDecoration: 'none' }}>
@@ -291,12 +291,12 @@ export default function Home() {
             <div data-anim>
               <div style={{ display: 'grid', gap: '12px' }} className="collage-grid">
                 <div style={{ overflow: 'hidden', height: '17rem' }}>
-                  <img src="/images/about1.jpg" alt="Jewellery craftsmanship" style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.5s ease' }}
+                  <img src="/images/new-jewellery/IMG-20260605-WA0033.jpg" alt="Jewellery craftsmanship" style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.5s ease' }}
                     onMouseEnter={(e) => { e.currentTarget.style.transform = 'scale(1.05)'; }}
                     onMouseLeave={(e) => { e.currentTarget.style.transform = 'scale(1)'; }} />
                 </div>
                 <div style={{ overflow: 'hidden', height: '17rem', marginTop: '2.5rem' }}>
-                  <img src="/images/about2.jpg" alt="Gold artisan workshop" style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.5s ease' }}
+                  <img src="/images/new-jewellery/IMG-20260605-WA0018.jpg" alt="Silver pearl rings collection" style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.5s ease' }}
                     onMouseEnter={(e) => { e.currentTarget.style.transform = 'scale(1.05)'; }}
                     onMouseLeave={(e) => { e.currentTarget.style.transform = 'scale(1)'; }} />
                 </div>
@@ -439,6 +439,36 @@ export default function Home() {
             @media (max-width: 1024px) { .product-grid { grid-template-columns: repeat(3, 1fr); } }
             @media (max-width: 640px)  { .product-grid { grid-template-columns: repeat(2, 1fr); } }
           `}</style>
+        </div>
+      </section>
+
+      {/* ══ VIDEO SHOWCASE ════════════════════════════════════════ */}
+      <section style={{ background: '#040c17', paddingTop: '5rem', paddingBottom: '5rem', width: '100%', overflow: 'hidden' }}>
+        <div style={{ maxWidth: '80rem', marginLeft: 'auto', marginRight: 'auto', paddingLeft: 'clamp(1.25rem, 4vw, 3rem)', paddingRight: 'clamp(1.25rem, 4vw, 3rem)' }}>
+          <div data-anim style={{ textAlign: 'center', marginBottom: '3rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '1rem' }}>
+              <span style={{ display: 'block', width: '2rem', height: '1px', background: GOLD }} />
+              <span style={{ color: GOLD, fontWeight: 600, fontSize: '11px', letterSpacing: '0.35em', textTransform: 'uppercase' }}>From Our Store</span>
+              <span style={{ display: 'block', width: '2rem', height: '1px', background: GOLD }} />
+            </div>
+            <h2 style={{ fontFamily: 'var(--font-playfair)', fontWeight: 700, color: '#fff', fontSize: 'clamp(26px, 3.5vw, 46px)', margin: 0 }}>Khushi Jewels in Motion</h2>
+          </div>
+          <div data-anim style={{ display: 'flex', justifyContent: 'center' }}>
+            <div style={{ position: 'relative', width: '100%', maxWidth: '420px', borderRadius: '4px', overflow: 'hidden', boxShadow: '0 24px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(212,175,55,0.2)' }}>
+              <video
+                src="/images/new-jewellery/VID-20260605-WA0019.mp4"
+                autoPlay
+                muted
+                loop
+                playsInline
+                style={{ width: '100%', display: 'block', objectFit: 'cover' }}
+              />
+              <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, padding: '1.5rem', background: 'linear-gradient(to top, rgba(4,12,23,0.9), transparent)' }}>
+                <p style={{ color: GOLD, fontSize: '11px', fontWeight: 700, letterSpacing: '0.2em', textTransform: 'uppercase', margin: '0 0 4px 0' }}>Khushi Jewels</p>
+                <p style={{ color: '#fff', fontSize: '14px', margin: 0 }}>Exclusive silver &amp; crystal collection — Jaipur</p>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
