@@ -1,102 +1,302 @@
 [
   {
     "id": 1,
-    "name": "Gold Engagement Ring",
-    "price": "₹45,000",
-    "category": "Rings",
-    "image": "/images/product1.jpg",
-    "description": "Beautiful 22K gold engagement ring with elegant design",
-    "weight": "4.5g",
-    "material": "22K Gold"
+    "name": "Silver Lady Chain Necklace",
+    "price": "₹1,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0001.jpg",
+    "description": "Premium A+++ quality silver lady chain, 1.6g weight, perfect for everyday elegance",
+    "weight": "1.6g",
+    "material": "Sterling Silver"
   },
   {
     "id": 2,
-    "name": "Diamond Solitaire Ring",
-    "price": "₹75,000",
+    "name": "Silver Pearl Ring Collection",
+    "price": "₹1,800",
     "category": "Rings",
-    "image": "/images/product2.jpg",
-    "description": "Premium diamond solitaire ring for special occasions",
-    "weight": "2.8g",
-    "material": "18K Gold with Diamond"
+    "image": "/images/new-jewellery/IMG-20260605-WA0018.jpg",
+    "description": "Handcrafted sterling silver rings with natural freshwater pearl, multiple designs available",
+    "weight": "3g",
+    "material": "Sterling Silver with Pearl"
   },
   {
     "id": 3,
-    "name": "Classic Gold Necklace",
-    "price": "₹55,000",
-    "category": "Necklaces",
-    "image": "/images/product3.jpg",
-    "description": "Timeless 22K gold necklace with intricate patterns",
-    "weight": "8.2g",
-    "material": "22K Gold"
+    "name": "Silver Pearl Ring — Velvet Collection",
+    "price": "₹2,200",
+    "category": "Rings",
+    "image": "/images/new-jewellery/IMG-20260605-WA0017.jpg",
+    "description": "Exquisite sterling silver rings with lustrous freshwater pearls, various handcrafted designs",
+    "weight": "3.5g",
+    "material": "Sterling Silver with Pearl"
   },
   {
     "id": 4,
-    "name": "Pearl Pendant Necklace",
-    "price": "₹35,000",
-    "category": "Necklaces",
-    "image": "/images/product4.jpg",
-    "description": "Elegant pearl pendant with gold chain",
-    "weight": "5.5g",
-    "material": "22K Gold with Pearl"
+    "name": "Silver Turtle Ring with Coloured Stones",
+    "price": "₹1,500",
+    "category": "Rings",
+    "image": "/images/new-jewellery/IMG-20260605-WA0006.jpg",
+    "description": "Lucky silver turtle ring adorned with multi-coloured gemstones, vastu-approved design",
+    "weight": "5g",
+    "material": "Sterling Silver with Coloured Stones"
   },
   {
     "id": 5,
-    "name": "Gold Hoop Earrings",
-    "price": "₹18,000",
-    "category": "Earrings",
-    "image": "/images/product5.jpg",
-    "description": "Classic gold hoop earrings, perfect for everyday wear",
-    "weight": "3.2g",
-    "material": "22K Gold"
+    "name": "Silver Om Symbol Ring",
+    "price": "₹900",
+    "category": "Rings",
+    "image": "/images/new-jewellery/IMG-20260605-WA0013.jpg",
+    "description": "Sacred Om symbol silver ring, spiritual and stylish, adjustable open design",
+    "weight": "2g",
+    "material": "Sterling Silver"
   },
   {
     "id": 6,
-    "name": "Diamond Stud Earrings",
-    "price": "₹28,000",
-    "category": "Earrings",
-    "image": "/images/product6.jpg",
-    "description": "Sparkling diamond studs for elegant look",
-    "weight": "1.8g",
-    "material": "18K Gold with Diamond"
+    "name": "CZ Cuban Link Chain Bracelet",
+    "price": "₹5,500",
+    "category": "Bangles",
+    "image": "/images/new-jewellery/IMG-20260605-WA0010.jpg",
+    "description": "Dazzling full CZ-encrusted Cuban link chain bracelet, bold statement piece for men and women",
+    "weight": "25g",
+    "material": "Silver with CZ Stones"
   },
   {
     "id": 7,
-    "name": "Bridal Gold Bangles Set",
-    "price": "₹68,000",
+    "name": "Men's CZ Cuban Choko Chain Bracelet",
+    "price": "₹4,500",
     "category": "Bangles",
-    "image": "/images/product7.jpg",
-    "description": "Set of 4 exquisite gold bangles for bridal collection",
-    "weight": "28g",
-    "material": "22K Gold"
+    "image": "/images/new-jewellery/IMG-20260605-WA0011.jpg",
+    "description": "Premium men's CZ Cuban with Choko chain bracelet, heavy-duty luxury design",
+    "weight": "35g",
+    "material": "Silver with CZ Stones"
   },
   {
     "id": 8,
-    "name": "Daily Wear Gold Bangles",
-    "price": "₹32,000",
-    "category": "Bangles",
-    "image": "/images/product8.jpg",
-    "description": "Comfortable gold bangles suitable for daily wear",
-    "weight": "12g",
-    "material": "22K Gold"
+    "name": "999 Silver Radha Krishna Tablet",
+    "price": "₹8,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/IMG-20260605-WA0009.jpg",
+    "description": "Pure 999 silver Radha Krishna embossed tablet in decorative gift box, ideal for gifting on special occasions",
+    "weight": "20g",
+    "material": "999 Pure Silver"
   },
   {
     "id": 9,
-    "name": "Bridal Choker Set",
-    "price": "₹95,000",
+    "name": "999 Silver Radha Krishna Acrylic Frame",
+    "price": "₹12,000",
     "category": "Bridal Sets",
-    "image": "/images/product9.jpg",
-    "description": "Complete bridal choker set with matching earrings",
-    "weight": "35g",
-    "material": "22K Gold with Stones"
+    "image": "/images/new-jewellery/IMG-20260605-WA0005.jpg",
+    "description": "Pure 999 silver Radha Krishna framed in premium acrylic display box, a treasured collectible piece",
+    "weight": "30g",
+    "material": "999 Pure Silver with Acrylic Frame"
   },
   {
     "id": 10,
-    "name": "Wedding Collection Set",
-    "price": "₹1,25,000",
+    "name": "Natural Pyrite Crystal Gemstone",
+    "price": "₹2,500",
     "category": "Bridal Sets",
-    "image": "/images/product10.jpg",
-    "description": "Luxury bridal set including necklace, earrings, and bangles",
+    "image": "/images/new-jewellery/IMG-20260605-WA0016.jpg",
+    "description": "Natural raw pyrite (fool's gold) crystal gemstone, believed to attract wealth and prosperity",
+    "weight": "150g",
+    "material": "Natural Pyrite Crystal"
+  },
+  {
+    "id": 11,
+    "name": "Cream & Ruby Beaded Choker",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0020.jpg",
+    "description": "Handcrafted cream and ruby crystal bead choker with silver CZ flower embellishments",
+    "weight": "45g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 12,
+    "name": "Cream Ruby Beaded Bridal Choker",
+    "price": "₹3,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0021.jpg",
+    "description": "Elegant cream and ruby bead choker with ornate silver flower centrepiece",
+    "weight": "48g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 13,
+    "name": "Emerald Green Beaded Choker",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0022.jpg",
+    "description": "Rich emerald green crystal bead choker with silver CZ floral motifs and pearl border",
+    "weight": "42g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 14,
+    "name": "Cream Ruby Diagonal Stripe Choker",
+    "price": "₹3,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0023.jpg",
+    "description": "Unique diagonal stripe cream and ruby bead choker with ornate CZ pendant drop",
     "weight": "50g",
-    "material": "22K Gold with Diamonds"
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 15,
+    "name": "Ruby Bead Choker with Pearl Border",
+    "price": "₹2,400",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0024.jpg",
+    "description": "Classic dark ruby crystal bead choker with delicate pearl border and small CZ flowers",
+    "weight": "40g",
+    "material": "Crystal Beads with Pearl Border"
+  },
+  {
+    "id": 16,
+    "name": "Ruby Crystal Choker with CZ Flowers",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0025.jpg",
+    "description": "Vibrant ruby crystal bead choker with large silver CZ flower embellishments and pearl border",
+    "weight": "44g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 17,
+    "name": "Ruby Choker with Leaf Motifs",
+    "price": "₹2,900",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0026.jpg",
+    "description": "Exquisite ruby bead choker with ornate silver leaf and floral motifs, pearl border trim",
+    "weight": "46g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 18,
+    "name": "Cream Ruby Star Flower Choker",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0027.jpg",
+    "description": "Beautiful cream and ruby bead choker with star-shaped silver flower motifs throughout",
+    "weight": "47g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 19,
+    "name": "Ruby Bead Slim Choker",
+    "price": "₹1,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0028.jpg",
+    "description": "Elegant slim ruby crystal bead choker with small CZ flower accents and pearl border",
+    "weight": "30g",
+    "material": "Crystal Beads with Pearl Border"
+  },
+  {
+    "id": 20,
+    "name": "Cream Ruby Wide Beaded Choker",
+    "price": "₹3,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0029.jpg",
+    "description": "Wide cream and ruby bead choker with elaborate CZ flower centrepiece, perfect for bridal occasions",
+    "weight": "55g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 21,
+    "name": "Ruby Choker with Green Emerald Flower",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0030.jpg",
+    "description": "Rich ruby bead choker with stunning green emerald and silver CZ centrepiece flower",
+    "weight": "43g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 22,
+    "name": "Ruby Beaded Bridal Choker Set",
+    "price": "₹4,200",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/IMG-20260605-WA0031.jpg",
+    "description": "Luxurious ruby crystal bead bridal choker with 5 CZ flower motifs and green drop pendant",
+    "weight": "58g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 23,
+    "name": "Ruby Crystal Heavy Bridal Choker",
+    "price": "₹3,600",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/IMG-20260605-WA0032.jpg",
+    "description": "Heavy ruby crystal bead bridal choker with 5 large CZ flowers and elegant red drop pendant",
+    "weight": "60g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 24,
+    "name": "White Pearl Choker with Green Flowers",
+    "price": "₹3,200",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/IMG-20260605-WA0033.jpg",
+    "description": "Elegant white pearl bead choker with emerald green leaf flowers, a bridal favourite",
+    "weight": "50g",
+    "material": "Pearl Beads with Silver CZ"
+  },
+  {
+    "id": 25,
+    "name": "Dark Green Crystal Choker Necklace",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0034.jpg",
+    "description": "Deep emerald green crystal bead choker with silver CZ flower clusters and pearl border",
+    "weight": "44g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 26,
+    "name": "Ruby Choker with Leaf Star Motifs",
+    "price": "₹2,700",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0035.jpg",
+    "description": "Ruby bead choker with distinctive star-shaped leaf motifs and green emerald centrepiece",
+    "weight": "45g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 27,
+    "name": "Emerald Green Choker with Large CZ",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0036.jpg",
+    "description": "Emerald green bead choker with large ornate CZ flower clusters and fine pearl border",
+    "weight": "46g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 28,
+    "name": "Ruby Beaded Choker — Classic Design",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0037.jpg",
+    "description": "Classic ruby bead choker with 3 CZ flower accents and delicate pearl border",
+    "weight": "38g",
+    "material": "Crystal Beads with Pearl Border"
+  },
+  {
+    "id": 29,
+    "name": "Ruby Choker with CZ Pendant Drop",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0038.jpg",
+    "description": "Ruby bead choker with five CZ flower accents and an elegant drop pendant",
+    "weight": "41g",
+    "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 30,
+    "name": "Ruby Choker — Minimal Floral",
+    "price": "₹2,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/IMG-20260605-WA0039.jpg",
+    "description": "Minimalist ruby bead choker with green centrepiece flower and delicate pearl border",
+    "weight": "36g",
+    "material": "Crystal Beads with Silver CZ"
   }
 ]
