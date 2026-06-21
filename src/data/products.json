@@ -298,5 +298,645 @@
     "description": "Minimalist ruby bead choker with green centrepiece flower and delicate pearl border",
     "weight": "36g",
     "material": "Crystal Beads with Silver CZ"
+  },
+  {
+    "id": 31,
+    "name": "Square Leaf Motif Oxidized Pendant",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140227_IMG_4562.jpg",
+    "description": "Oxidized silver square pendant with engraved leaf tree motif, ruby flower bail, pearl and ruby bead drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 32,
+    "name": "Round Lotus Crown Pendant",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140326_IMG_4566.jpg",
+    "description": "Large round oxidized silver pendant with textured lotus bloom, crown bail, ruby centre stone, ruby and pearl bead drops",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 33,
+    "name": "Dual Parrot Square Pendant",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140354_IMG_4567.jpg",
+    "description": "Oxidized silver square pendant with twin parrot motifs, ruby and CZ flower accents, pearl and ruby drops",
+    "weight": "32g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 34,
+    "name": "Dual Peacock Ruby-Emerald Pendant",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140500_IMG_4571.jpg",
+    "description": "Oxidized silver round pendant with twin peacocks flanking emerald and ruby centre, ruby and pearl bead fringe",
+    "weight": "38g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 35,
+    "name": "Rectangular Bird Oxidized Pendant",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140524_IMG_4572.jpg",
+    "description": "Oxidized silver rectangular pendant with bird design, emerald and ruby stones, ruby and pearl drops",
+    "weight": "33g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 36,
+    "name": "Round CZ Floral Oxidized Pendant",
+    "price": "₹2,400",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140614_IMG_4576.jpg",
+    "description": "Round oxidized silver pendant with full CZ floral border, ruby centre stone, ruby and pearl bead drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 37,
+    "name": "Radha-Krishna Dancer Pendant",
+    "price": "₹3,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140647_IMG_4578.jpg",
+    "description": "Statement oxidized silver pendant featuring Radha-Krishna dancer figures, ruby and emerald stones, dual bead drops",
+    "weight": "42g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 38,
+    "name": "Half-Moon Ruby Border Pendant",
+    "price": "₹3,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140732_IMG_4580.jpg",
+    "description": "Wide oxidized silver half-moon pendant set with ruby border stones, full ruby and pearl bead fringe drops",
+    "weight": "45g",
+    "material": "Oxidized Silver with Ruby Border"
+  },
+  {
+    "id": 39,
+    "name": "Grand Peacock CZ Pendant",
+    "price": "₹3,800",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140755_IMG_4582.jpg",
+    "description": "Grand oxidized silver peacock pendant with CZ and ruby stones, twin peacock motifs, ruby and pearl bead drops",
+    "weight": "48g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 40,
+    "name": "Triple Peacock Ruby Pendant",
+    "price": "₹3,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140837_IMG_4584.jpg",
+    "description": "Oxidized silver pendant with three peacock figures, ruby and CZ detailing, ruby and pearl bead drops",
+    "weight": "44g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 41,
+    "name": "Square CZ Spiral Peacock Pendant",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140914_IMG_4587.jpg",
+    "description": "Oxidized silver square pendant with CZ spiral design, emerald and ruby stones, peacock motifs, ruby drops",
+    "weight": "36g",
+    "material": "Oxidized Silver with CZ, Ruby and Emerald"
+  },
+  {
+    "id": 42,
+    "name": "Radha-Krishna with Coral Bead Drops",
+    "price": "₹3,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140930_IMG_4588.jpg",
+    "description": "Oxidized silver Radha-Krishna dancer pendant with ruby and emerald stones, vibrant coral and red bead drops",
+    "weight": "42g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 43,
+    "name": "Krishna Deity Circular Pendant",
+    "price": "₹4,000",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_141006_IMG_4590.jpg",
+    "description": "Ornate oxidized silver circular pendant with Krishna deity figure, peacock motifs, ruby and pearl bead drops",
+    "weight": "50g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 44,
+    "name": "Swan Pair Oxidized Pendant",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141106_IMG_4595.jpg",
+    "description": "Flat oxidized silver pendant with twin swan motifs, ruby and CZ teardrop stones, ruby and pearl drops",
+    "weight": "28g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 45,
+    "name": "Double CZ Ring Oxidized Pendant",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141132_IMG_4597.jpg",
+    "description": "Round oxidized silver pendant with double CZ ring border and floral centre, ruby accent stones, ruby and pearl drops",
+    "weight": "32g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 46,
+    "name": "Radha-Krishna Emerald-Red Bead Pendant",
+    "price": "₹3,800",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_141217_IMG_4598.jpg",
+    "description": "Premium Radha-Krishna dancer pendant with ruby-emerald stones, dual emerald green and red coral bead drops",
+    "weight": "44g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 47,
+    "name": "Peacock Red Coral Pendant",
+    "price": "₹3,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141259_IMG_4601.jpg",
+    "description": "Oxidized silver peacock pendant with ruby and CZ detailing, rich red coral and pearl bead fringe drops",
+    "weight": "40g",
+    "material": "Oxidized Silver with Ruby and Coral"
+  },
+  {
+    "id": 48,
+    "name": "Round Jhumka Bail Pendant",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141351_IMG_4603.jpg",
+    "description": "Ornate round oxidized silver pendant with jhumka bell base bail, ruby centre, ruby and pearl bead drops",
+    "weight": "34g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 49,
+    "name": "Rectangular Floral Bail Pendant",
+    "price": "₹2,400",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141415_IMG_4605.jpg",
+    "description": "Oxidized silver rectangular pendant with floral CZ bail, peacock leaf sides, ruby and pearl bead drops",
+    "weight": "32g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 50,
+    "name": "Rectangular Ruby-Emerald Pendant",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141450_IMG_4608.jpg",
+    "description": "Oxidized silver rectangular pendant with ruby and emerald CZ stones, floral motifs, ruby and pearl drops",
+    "weight": "33g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 51,
+    "name": "Wing-Scroll Textured Pendant",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141602_IMG_4612.jpg",
+    "description": "Unique oxidized silver pendant with wing-scroll textured body, ruby accent stones, CZ flower, ruby and pearl drops",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 52,
+    "name": "Peacock Emerald Flower Pendant",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141636_IMG_4614.jpg",
+    "description": "Oxidized silver peacock pendant with emerald and ruby CZ stones, mango-leaf motifs, ruby and pearl drops",
+    "weight": "38g",
+    "material": "Oxidized Silver with Emerald and Ruby"
+  },
+  {
+    "id": 53,
+    "name": "Silver CZ Bracelet Collection",
+    "price": "₹4,500",
+    "category": "Bangles",
+    "image": "/images/new-jewellery/20250105_170742_IMG_3747.jpg",
+    "description": "Set of sterling silver bracelets with sapphire, blue teardrop, white CZ and emerald gemstone centrepieces, gift-boxed",
+    "weight": "12g each",
+    "material": "Sterling Silver with CZ Gemstones"
+  },
+  {
+    "id": 54,
+    "name": "Emerald Cut CZ Solitaire Ring",
+    "price": "₹2,800",
+    "category": "Rings",
+    "image": "/images/new-jewellery/20241230_105043_IMG_3477.jpg",
+    "description": "Elegant silver ring with large emerald-cut CZ solitaire in halo setting with micro pave band, brilliant sparkle",
+    "weight": "4g",
+    "material": "Sterling Silver with CZ"
+  },
+  {
+    "id": 55,
+    "name": "Square Leaf Pendant — Bright Finish",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140215_IMG_4561.jpg",
+    "description": "Oxidized silver square pendant with engraved leaf tree, ruby flower bail, pearl and ruby bead drops — bright polished finish",
+    "weight": "30g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 56,
+    "name": "Square Engraved Leaf Pendant",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140235_IMG_4563.jpg",
+    "description": "Oxidized silver square pendant with deep-engraved leaf motif, CZ and ruby flower bail, pearl and ruby drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 57,
+    "name": "Lotus Crown Pendant — Light Oxidized",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140316_IMG_4564.jpg",
+    "description": "Round lotus-bloom oxidized silver pendant with crown bail, ruby centre stone, ruby and pearl drops — lighter oxidized tone",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 58,
+    "name": "Lotus Crown Pendant — Dark Oxidized",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140318_IMG_4565.jpg",
+    "description": "Round lotus-bloom oxidized silver pendant with crown bail, ruby centre stone, ruby and pearl drops — darker oxidized finish",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 59,
+    "name": "Dual Parrot Pendant — Oxidized Finish",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140404_IMG_4568.jpg",
+    "description": "Square oxidized silver pendant with twin parrot motifs, CZ and ruby flowers, pearl and ruby drop fringe",
+    "weight": "32g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 60,
+    "name": "Peacock Round Pendant — Pearl Drops",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140425_IMG_4569.jpg",
+    "description": "Oxidized silver round pendant with twin peacocks, ruby and CZ centre, pearl and ruby bead drops",
+    "weight": "38g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 61,
+    "name": "Peacock Pendant — Emerald Ruby Stones",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140456_IMG_4570.jpg",
+    "description": "Oxidized silver round peacock pendant with emerald and ruby stones, mango leaf surround, pearl and ruby drops",
+    "weight": "38g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 62,
+    "name": "Rectangular Filigree Bird Pendant",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140548_IMG_4573.jpg",
+    "description": "Oxidized silver rectangular pendant with filigree bird motif and ruby stones, ruby and pearl bead drops",
+    "weight": "33g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 63,
+    "name": "Rectangular Pendant with Ruby Drops",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140554_IMG_4574.jpg",
+    "description": "Oxidized silver rectangular pendant with peacock bail, CZ and ruby flowers, full ruby and pearl bead fringe",
+    "weight": "33g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 64,
+    "name": "Round CZ Border Oxidized Pendant",
+    "price": "₹2,400",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140609_IMG_4575.jpg",
+    "description": "Round oxidized silver pendant with CZ stone border, ruby centre, flower details, ruby and pearl bead drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 65,
+    "name": "Radha-Krishna Pendant — Close View",
+    "price": "₹3,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140638_IMG_4577.jpg",
+    "description": "Oxidized silver pendant with Radha-Krishna dancer figures, ruby and emerald stones, ruby and emerald bead drops",
+    "weight": "42g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 66,
+    "name": "Half-Moon Ruby Pendant — Angled",
+    "price": "₹3,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140724_IMG_4579.jpg",
+    "description": "Wide oxidized silver half-moon pendant with ruby stones set along the border, full ruby and pearl bead fringe",
+    "weight": "45g",
+    "material": "Oxidized Silver with Ruby Border"
+  },
+  {
+    "id": 67,
+    "name": "Peacock Pendant with CZ Flowers",
+    "price": "₹3,800",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140749_IMG_4581.jpg",
+    "description": "Grand oxidized silver peacock pendant with CZ flower sprays and ruby stones, ruby and pearl bead drops",
+    "weight": "48g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 68,
+    "name": "Peacock Ruby Pendant — Ornate",
+    "price": "₹3,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140831_IMG_4583.jpg",
+    "description": "Ornate oxidized silver peacock pendant with ruby CZ stones, three peacock heads, ruby and pearl drops",
+    "weight": "44g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 69,
+    "name": "Large Peacock CZ Ruby Pendant",
+    "price": "₹3,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140843_IMG_4585.jpg",
+    "description": "Large premium oxidized silver peacock pendant with full CZ and ruby detailing, ruby and pearl bead drops",
+    "weight": "46g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 70,
+    "name": "CZ Spiral Peacock Pendant — Close View",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_140907_IMG_4586.jpg",
+    "description": "Oxidized silver square pendant with CZ spiral motif, peacock side accents, emerald and ruby stones, ruby drops",
+    "weight": "36g",
+    "material": "Oxidized Silver with CZ, Ruby and Emerald"
+  },
+  {
+    "id": 71,
+    "name": "Radha-Krishna Pendant — Coral Drops Variant",
+    "price": "₹3,500",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_140936_IMG_4589.jpg",
+    "description": "Premium Radha-Krishna dancer pendant with ruby and emerald stones, vibrant coral red bead drop fringe",
+    "weight": "42g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 72,
+    "name": "Krishna Circle Pendant — Pearl Drops",
+    "price": "₹4,000",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_141012_IMG_4591.jpg",
+    "description": "Ornate oxidized silver circular Krishna deity pendant with peacock and flower motifs, ruby and pearl drops",
+    "weight": "50g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 73,
+    "name": "Square Leaf Pendant V2 — Front",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141030_IMG_4592.jpg",
+    "description": "Oxidized silver square pendant with engraved leaf motif and scalloped bail, pearl and ruby bead drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 74,
+    "name": "Square Leaf Pendant V2 — Side",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141036_IMG_4593.jpg",
+    "description": "Oxidized silver square pendant with engraved leaf motif and scalloped bail, side-angle view, ruby drops",
+    "weight": "30g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 75,
+    "name": "Swan Pair Pendant — Angled View",
+    "price": "₹2,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141058_IMG_4594.jpg",
+    "description": "Flat oxidized silver pendant with twin swan motifs, CZ teardrop centre, ruby and pearl drop accents",
+    "weight": "28g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 76,
+    "name": "Round Double CZ Ring Pendant",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141122_IMG_4596.jpg",
+    "description": "Round oxidized silver pendant with concentric CZ ring borders, floral centre, ruby stones, ruby and pearl drops",
+    "weight": "32g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 77,
+    "name": "Radha-Krishna Pendant — Green Bead Drops",
+    "price": "₹3,800",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250330_141223_IMG_4599.jpg",
+    "description": "Radha-Krishna dancer pendant with ruby-emerald stones, dual emerald green and red coral bead drop fringe",
+    "weight": "44g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 78,
+    "name": "Peacock Pendant with Coral Fringe",
+    "price": "₹3,200",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141244_IMG_4600.jpg",
+    "description": "Oxidized silver peacock pendant with ruby and CZ, full red coral and pearl bead fringe drops",
+    "weight": "40g",
+    "material": "Oxidized Silver with Ruby and Coral"
+  },
+  {
+    "id": 79,
+    "name": "Round Jhumka Pendant — Classic",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141337_IMG_4602.jpg",
+    "description": "Round oxidized silver pendant with ornate jhumka bell base, diamond-mesh body, ruby centre, ruby and pearl drops",
+    "weight": "34g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 80,
+    "name": "Rectangular Pendant with Peacock Bail",
+    "price": "₹2,400",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141408_IMG_4604.jpg",
+    "description": "Oxidized silver rectangular pendant with peacock leaf bail, CZ and ruby flower, pearl and ruby drops",
+    "weight": "32g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 81,
+    "name": "Round Jhumka Pendant — Ornate",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141428_IMG_4606.jpg",
+    "description": "Ornate round oxidized silver pendant with jhumka bell drop, ruby centre, diamond-mesh body, pearl drops",
+    "weight": "34g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 82,
+    "name": "Round Pendant with Jhumka Drop",
+    "price": "₹2,500",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141434_IMG_4607.jpg",
+    "description": "Round oxidized silver pendant with jhumka bell drop and diamond-mesh body, ruby accent, pearl and ruby drops",
+    "weight": "34g",
+    "material": "Oxidized Silver with Ruby Stones"
+  },
+  {
+    "id": 83,
+    "name": "Rectangular Pendant — Ruby Emerald",
+    "price": "₹2,600",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141456_IMG_4609.jpg",
+    "description": "Oxidized silver rectangular pendant with ruby and emerald stones, heart-vine floral motif, ruby and pearl drops",
+    "weight": "33g",
+    "material": "Oxidized Silver with Ruby and Emerald"
+  },
+  {
+    "id": 84,
+    "name": "Peacock Pendant — Ruby CZ",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141526_IMG_4610.jpg",
+    "description": "Oxidized silver peacock pendant with ruby and CZ stone accents, mango-leaf motif surround, ruby and pearl drops",
+    "weight": "38g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 85,
+    "name": "Peacock Oxidized Pendant — Pearl Drops",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141532_IMG_4611.jpg",
+    "description": "Oxidized silver peacock pendant with CZ and ruby detailing, natural pearl and ruby bead drop fringe",
+    "weight": "38g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 86,
+    "name": "Wing-Scroll Pendant — Variant",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141609_IMG_4613.jpg",
+    "description": "Oxidized silver pendant with wing-scroll textured body and CZ flower, ruby stones, ruby and pearl bead drops",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 87,
+    "name": "Peacock Emerald Flower Pendant — Variant",
+    "price": "₹3,000",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141643_IMG_4615.jpg",
+    "description": "Oxidized silver peacock pendant with emerald centre flower, ruby and CZ accents, ruby and pearl bead drops",
+    "weight": "38g",
+    "material": "Oxidized Silver with Emerald and Ruby"
+  },
+  {
+    "id": 88,
+    "name": "Rectangular Textured Bird Pendant",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141704_IMG_4616.jpg",
+    "description": "Oxidized silver rectangular pendant with textured surface, CZ flower and ruby stones, ruby and pearl drops",
+    "weight": "35g",
+    "material": "Oxidized Silver with Ruby and CZ"
+  },
+  {
+    "id": 89,
+    "name": "Rectangular Pendant — CZ Flower Bail",
+    "price": "₹2,800",
+    "category": "Necklaces",
+    "image": "/images/new-jewellery/20250330_141710_IMG_4617.jpg",
+    "description": "Oxidized silver rectangular pendant with CZ flower bail, ruby and floral motifs, ruby and pearl drops",
+    "weight": "35g",
+    "material": "Oxidized Silver with CZ and Ruby"
+  },
+  {
+    "id": 90,
+    "name": "Silver CZ Bracelet Set — Gift Box",
+    "price": "₹4,500",
+    "category": "Bangles",
+    "image": "/images/new-jewellery/20250105_170725_IMG_3746.jpg",
+    "description": "Set of 4 sterling silver bracelets with sapphire, blue teardrop, white CZ and emerald centrepieces, in gift box",
+    "weight": "12g each",
+    "material": "Sterling Silver with CZ Gemstones"
+  },
+  {
+    "id": 91,
+    "name": "Silver Deity Charm Pendant",
+    "price": "₹800",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250105_145551_IMG_3739.jpg",
+    "description": "Miniature oxidized silver deity charm pendant with CZ stones, ideal for spiritual jewellery or as a chain charm",
+    "weight": "5g",
+    "material": "Oxidized Silver with CZ"
+  },
+  {
+    "id": 92,
+    "name": "Silver Charm Collection — 40 Designs",
+    "price": "₹600",
+    "category": "Bridal Sets",
+    "image": "/images/new-jewellery/20250105_144546_IMG_3730.jpg",
+    "description": "Collection of 40 handcrafted sterling silver charm pendants in various designs — animals, flowers, symbols and deities",
+    "weight": "3–8g each",
+    "material": "Sterling Silver"
+  },
+  {
+    "id": 93,
+    "name": "Emerald Cut CZ Ring — Halo Setting",
+    "price": "₹2,800",
+    "category": "Rings",
+    "image": "/images/new-jewellery/20241230_105037_IMG_3476.jpg",
+    "description": "Sterling silver ring with large emerald-cut CZ stone in full diamond halo, side stone accents on split shank band",
+    "weight": "4g",
+    "material": "Sterling Silver with CZ"
+  },
+  {
+    "id": 94,
+    "name": "CZ Solitaire Ring — Hand View",
+    "price": "₹2,800",
+    "category": "Rings",
+    "image": "/images/new-jewellery/20241230_104511_IMG_3469.jpg",
+    "description": "Elegant sterling silver ring with princess-cut CZ solitaire on micro pave band — shown worn for true size reference",
+    "weight": "4g",
+    "material": "Sterling Silver with CZ"
   }
 ]
